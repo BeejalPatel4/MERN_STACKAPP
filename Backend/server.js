@@ -11,7 +11,7 @@ const OpenAI = require("openai");
 const app = express();
 
 // Initialize OpenAI client
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+// const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 // Connect to MongoDB
 (async () => {
