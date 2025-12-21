@@ -37,9 +37,10 @@ header ul li{
   
   
 }
-/* header ul li:hover{
+ header ul li:hover{
  color: #307bbd;
  background-color: #d4f6e8;
+ }
  /* padding: 10px; */
 
 
@@ -55,10 +56,11 @@ li a:hover{
   color:black;
 }
 
-/* li .login{
+li .login{
   font-size: 16px;
   font-weight:500;
-} */
+  color:black;
+}
 
 header h2{
   margin-left: 1rem;
